@@ -1,0 +1,3 @@
+[submodule "lib/MovingMNIST"]
+	path = lib/MovingMNIST
+	url = https://github.com/tychovdo/MovingMNIST
