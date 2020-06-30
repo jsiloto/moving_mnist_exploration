@@ -7,5 +7,5 @@ RUN apt-get update && \
     python3-pip \
     vim
 
-RUN conda install jupyter torchvision tensorboard pip
+RUN conda install -y jupyter torchvision tensorboard pip matplotlib
 #RUN pip install tensorboardX
